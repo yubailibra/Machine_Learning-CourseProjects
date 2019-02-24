@@ -1,4 +1,4 @@
-# Machine Learning For Trading
+# Machine Learning For Trading (09/2017-12/2007)
 Individual projects that applied machine learning approaches in stock trading data analysis and predictive modeling
 
 **Projects**
